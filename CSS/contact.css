@@ -1,0 +1,205 @@
+.container-contact1 {
+    width: 100%;
+    height: 45px;
+}
+.container-contact2 {
+    display: flex;
+    margin-top: -50px;
+    display: absolute;
+    gap: 950px;
+    margin-left: 170px;
+}
+.container-contact2 p {
+    font-size: 19.5px;
+    font-weight: 100;
+    line-height: 24px;
+    color: rgb(51, 51, 51);
+    font-family: Ubuntu, sans-serif;
+    margin-top: 14px;
+}
+.container-contact2 p a {
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 24px;
+    color: rgb(51, 51, 51);
+    font-family: Ubuntu, sans-serif;
+}
+body {
+    font-family: Ubuntu, sans-serif;
+}
+.nav-container{
+height: 120px;
+width: 100%;
+display: flex;
+}
+.mobile-email{
+display: flex;
+}
+.mobile-email p {
+font-family: Ubuntu, sans-serif;
+font-size: 12px;
+font-weight: 400px;
+line-height: 30px;
+color: rgb(119, 119, 119);
+}
+.logo-container {
+width: 40%;
+height: 100%;
+
+}
+.logo-container div  img {
+ width: 350px;
+ height: 100%;
+ margin-left: 50px;
+}
+.logo-container div {
+margin-left: 100px;
+margin-top: 15px;
+
+}
+.mobile-email{
+display: flex;
+width: 100%;
+height: 40%;
+padding: 10px, 10px, 10px, 10px;
+margin-left: 135px;
+margin-top: 10px;
+}
+.home-section{
+display: flex;
+gap: 20px;
+font-size: 14px;
+font-weight: 400px;
+line-height: 65px;
+color: rgb(246, 128, 32);
+margin-left: 30px;
+}
+.home-section a {
+color: #222;
+}
+.DPS-display {
+width: 79%;
+height: 30px;
+margin-top: 50px;
+margin-left: 140px;
+background-color: rgb(255,139,23);
+}
+.DPS-display h3 {
+color: rgb(255, 255, 255);
+font-size: 12px;
+margin-left: 15px;
+padding-top: 8px;
+}
+.contactpage_address_section {
+display: flex;
+width: 79%;
+height: 120px;
+margin-top: 5px;
+margin-left: 140px;
+}
+.dps-img {
+height: 120px;
+}
+.dps-img1 {
+    width: 28%;
+    height: 52px;
+    margin-left: 210px;
+}
+.map  iframe {
+width: 79%;
+height: 400px;
+margin-left: 140px;
+}
+.FEEDBACK {
+font-size: 24px;
+line-height: 24px;
+font-weight: bold;
+text-transform: uppercase;
+color: #333;
+margin-bottom: 20px;
+width: auto;
+margin-left: 140px;
+}
+form {
+display: block;
+margin-top: 0em;
+}
+form input {
+box-sizing: border-box;
+line-height: 40px;
+height: 40px;
+padding: 0px 15px;
+border: 1px solid #ddd;
+float: left;
+width: 79%;
+margin-bottom: 14px;
+margin-left: 140px;
+}
+form textarea {
+box-sizing: border-box;
+line-height: 40px;
+height: 100px;
+padding: 0px 15px;
+border: 1px solid #ddd;
+float: left;
+margin-bottom: 18px;
+width: 79%;
+margin-left: 140px;
+}    
+form button {
+background: #056d33;
+line-height: 40px;
+height: 40px;
+padding: 0px 15px;
+width: 15%;
+border: 0px;
+color: #fff;
+position: relative;
+cursor: pointer;
+margin-left: 1102px;
+}
+.footer-container {
+margin-top: 25px;
+width: 100%;
+height: 340px;
+border: 1px solid black;
+background: url(/SRC/bg_patt.jpg); 
+position: relative; 
+
+}
+.footer-widget {
+position: absolute;
+width: 100%;
+float: left;
+}
+.footer-widget  {
+box-sizing: border-box;
+text-align: left;
+width: 59%;
+height: 80%;
+margin-top: 20px;
+margin-left: 155px;
+}
+.footer-widget h2 {
+font-size: 20px;
+line-height: 24px;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.footer-widget p {
+font-size: 13px;
+line-height: 21px;
+font-family: 'Ubuntu', sans-serif;
+}
+.footer-img {
+margin-left: 1070px;
+margin-top: 33px;
+}
+.footer-img img {
+height: 220px;
+}
+.footer-info img {
+width: 1150px;
+height: auto;
+margin-left: 150px;
+}

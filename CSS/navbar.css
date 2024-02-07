@@ -1,0 +1,50 @@
+body {
+    font-family: Ubuntu, sans-serif;
+}
+.nav-container{
+height: 120px;
+width: 100%;
+display: flex;
+}
+.mobile-email{
+display: flex;
+}
+.mobile-email p {
+font-family: Ubuntu, sans-serif;
+font-size: 12px;
+font-weight: 400px;
+line-height: 30px;
+color: rgb(119, 119, 119);
+}
+.logo-container {
+width: 40%;
+height: 100%;
+
+}
+.logo-container div  img {
+ width: 350px;
+ height: 100%;
+ margin-left: 50px;
+}
+.logo-container div {
+margin-left: 100px;
+margin-top: 15px;
+
+}
+.mobile-email{
+display: flex;
+width: 100%;
+height: 40%;
+padding: 10px, 10px, 10px, 10px;
+margin-left: 135px;
+margin-top: 10px;
+}
+.home-section{
+display: flex;
+gap: 20px;
+font-size: 14px;
+font-weight: 400px;
+line-height: 65px;
+color: rgb(246, 128, 32);
+margin-left: 30px;
+}

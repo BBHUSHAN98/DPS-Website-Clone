@@ -1,0 +1,44 @@
+.footer-container {
+    width: 100%;
+    height: 340px;
+    border: 1px solid black;
+    background: url(/SRC/bg_patt.jpg); 
+    position: relative; 
+   
+}
+.footer-widget {
+    position: absolute;
+    width: 100%;
+    float: left;
+}
+.footer-widget  {
+    box-sizing: border-box;
+    text-align: left;
+    width: 59%;
+    height: 80%;
+    margin-top: 20px;
+    margin-left: 155px;
+}
+.footer-widget h2 {
+    font-size: 20px;
+    line-height: 24px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.footer-widget p {
+    font-size: 13px;
+    line-height: 21px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.footer-img {
+  margin-left: 1070px;
+  margin-top: 33px;
+}
+.footer-img img {
+  height: 220px;
+}
+.footer-info img {
+   width: 1150px;
+   height: auto;
+   margin-left: 150px;
+}
